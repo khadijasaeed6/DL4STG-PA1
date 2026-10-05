@@ -1,0 +1,14 @@
+﻿.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model checkpoints
+**/checkpoints/
+**/checkpoints_task2/
+**/checkpoints_task2_normalized/
+**/checkpoints_task2_temporal_external/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
